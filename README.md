@@ -1,6 +1,6 @@
 # RPIPicoFreeRTOSSMPExp
 
-This is a [FreeRTOS Kernel SMP](https://www.freertos.org/symmetric-multiprocessing-introduction.html) example for the [Raspberry PI Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/). This example project is used on my (video tutorial on YouTube)[].
+This is a [FreeRTOS Kernel SMP](https://www.freertos.org/symmetric-multiprocessing-introduction.html) example for the [Raspberry PI Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/). This example project is used on my [video tutorial on YouTube](https://youtu.be/nD8XeWjn-2w).
 
 ## Dependencies
 + (FreeRTOS Kernel)[https://github.com/FreeRTOS/FreeRTOS-Kernel] Version *V202110.00-SMP*
